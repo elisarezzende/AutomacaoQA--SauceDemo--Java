@@ -42,7 +42,7 @@ Os cenários automatizados simulam interações no site da **SauceDemo**, contem
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/elisarezzende/AutomacaoQA--Java.git
+   git clone https://github.com/elisarezzende/AutomacaoQA--SauceDemo--Java.git
    
 2. Acesse a pasta do projeto:
    cd SauceDemo-Selenium-Java
