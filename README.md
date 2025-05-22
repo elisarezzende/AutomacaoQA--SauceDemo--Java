@@ -59,23 +59,6 @@ Os cenários automatizados simulam interações no site da **SauceDemo**, contem
 Após executar os testes, gere o relatório:
   allure serve allure-results
 
-### ✔️ Estrutura do projeto
-
-├── src
-│   ├── main
-│   │   └── java
-│   │       ├── pages          # Classes de páginas (Page Objects)
-│   │       ├── actions        # Ações realizadas nas páginas
-│   │       └── utils          # Classes utilitárias (DriverFactory, ScreenshotUtil)
-│
-│   ├── test
-│   │   ├── java
-│   │   │   └── stepDefinitions # Steps do Cucumber
-│   │   └── resources
-│   │       └── features        # Arquivos .feature (cenários)
-│
-├── pom.xml                     # Gerenciamento de dependências
-
 
 👩‍💻 Aprendizados e Práticas
 Neste projeto, foram desenvolvidas e aplicadas habilidades como:
