@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-16T18:22:13 BRT" name="Default suite" finished-at="2025-01-16T18:22:18 BRT" duration-ms="4573">
+    <groups>
+    </groups>
+    <test started-at="2025-01-16T18:22:13 BRT" name="Default test" finished-at="2025-01-16T18:22:18 BRT" duration-ms="4573">
+      <class name="Tests.SeleniumTest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:Tests.SeleniumTest@6b2ea799]" started-at="2025-01-16T18:22:04 BRT" name="Setup" finished-at="2025-01-16T18:22:13 BRT" duration-ms="9515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="validarPrimeiroSapatoEsportivo()[pri:0, instance:Tests.SeleniumTest@6b2ea799]" started-at="2025-01-16T18:22:13 BRT" name="validarPrimeiroSapatoEsportivo" finished-at="2025-01-16T18:22:14 BRT" duration-ms="808" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validarPrimeiroSapatoEsportivo -->
+        <test-method signature="validarPrimeiroSapatoFormal()[pri:0, instance:Tests.SeleniumTest@6b2ea799]" started-at="2025-01-16T18:22:14 BRT" name="validarPrimeiroSapatoFormal" finished-at="2025-01-16T18:22:15 BRT" duration-ms="788" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validarPrimeiroSapatoFormal -->
+        <test-method signature="validarTitulos_SapatosOnline()[pri:0, instance:Tests.SeleniumTest@6b2ea799]" started-at="2025-01-16T18:22:15 BRT" name="validarTitulos_SapatosOnline" finished-at="2025-01-16T18:22:18 BRT" duration-ms="2914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validarTitulos_SapatosOnline -->
+        <test-method is-config="true" signature="cleanup()[pri:0, instance:Tests.SeleniumTest@6b2ea799]" started-at="2025-01-16T18:22:18 BRT" name="cleanup" finished-at="2025-01-16T18:22:19 BRT" duration-ms="1173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+      </class> <!-- Tests.SeleniumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
